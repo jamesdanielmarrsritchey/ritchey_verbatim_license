@@ -1,0 +1,1 @@
+# ritchey_verbatim_license
