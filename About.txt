@@ -1,0 +1,12 @@
+Name: Ritchey Verbatim License
+Version: 2
+Long Identifier: Ritchey Verbatim License v2
+Short Identifier: RVLv2
+Description: A read-only source license.
+History:
+ - Version 1 completed.
+ - Version 2 completed July 14, 2024.
+Author:James Daniel Marrs Ritchey
+Licensing: This project is hereby licensed under the terms of the Ritchey Verbatim License v2 license.
+Notes:
+- 
