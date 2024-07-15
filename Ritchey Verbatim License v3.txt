@@ -1,4 +1,4 @@
-Ritchey Verbatim License v2
+Ritchey Verbatim License v3
 
 Definitions
 
@@ -8,7 +8,7 @@ Any definitions provided within this license overrule any external definitions.
 - License Author means the legal entities whom created this license.
 - Licensee means a legal entity receiving the Creative Work under this license, and accepting the license terms.
 - Licensor means the legal entities whom hold Copyright, and related rights, in the Creative Work, and are offering this license, applicable to the Creative Work.
-- Material means material other than the Creative Work.
+- Material means material which is not part of the Creative Work, or provided by the Licensor to the Licensee. 
 
 Offer
 
@@ -22,7 +22,7 @@ If any portion of this license is known by the Licensee to have been previously 
 
 Permissions
 
-The Licensee is granted royalty-free, perpetual, non-exclusive, non-transferable permission to do anything with the Creative Work, which does not violate any part of this license.
+The Licensee is granted royalty-free, perpetual (unless otherwise stated), non-exclusive, non-transferable permission to do anything with the Creative Work, which does not violate any part of this license.
 
 The Creative Work may only be shared verbatim.
 
@@ -46,22 +46,22 @@ Regardless of any other applicable information, the Creative Work is provided as
 
 In the event of legal action, in relation to the Creative Work, neither the Licensor, or Licensee may be compensated by, or required to make compensation to, the other.
 
-Revokation
+Revocation
 
 This license is automatically revoked permanently from the Licensee upon breach of the license terms, with the following exceptions:
 - If the Licensee breaches the terms of this license accidentally, the license is revoked, but the Licensee may accept the license again after 30 days, if the Licensee makes all changes needed to come into compliance with the license terms.
 
-If the Licensee has already accepted the license, and later discovers any portion has been deemed unenforceable, by a court of law, in any applicable jurisdiction, the Licensee is not permitted to intiate any new attempts to exercise the license, but is not required to take any action in regards to previously initiated exercises.
+If the Licensee has already accepted the license, and later discovers any portion has been deemed unenforceable, by a court of law, in any applicable jurisdiction, the Licensee is not permitted to initiate any new attempts to exercise the license, but is not required to take any action in regards to previously initiated exercises.
 
 Governance
 
 This license is governed by the laws of the province of British Columbia, and the applicable federal laws of Canada. Any legal proceedings in relation to the Creative Work may only occur in the courts of British Columbia, or the Federal Court of Canada. 
 
-Legal preceedings may not consider any optional legal precedents established after April 21, 1989, unless they help protect the defendant.
+Legal proceedings may not consider any optional legal precedents established after April 21, 1989, unless they help protect the defendant.
 
 Interpretation
 
-If any portions of this license contradict, the later portion shall overrule the previous, to the degree needed to make the later portion true.
+If any portions of this license contradict, the later portion shall overrule the previous, to the extent needed to make the later portion functional.
 
 Meta
 
