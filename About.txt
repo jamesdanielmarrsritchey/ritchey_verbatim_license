@@ -1,13 +1,14 @@
 Name: Ritchey Verbatim License
-Version: 3
-Long Identifier: Ritchey Verbatim License v3
-Short Identifier: RVLv3
+Version: 4
+Long Identifier: Ritchey Verbatim License v4
+Short Identifier: RVLv4
 Description: A read-only source license.
 History:
  - Version 1 completed.
  - Version 2 completed July 14, 2024.
  - Version 3 completed July 15, 2024.
+ - Version 4 completed December 22, 2024.
 Author:James Daniel Marrs Ritchey
-Licensing: This project is hereby licensed under the Ritchey Verbatim License v3 license.
+Licensing: This project is hereby licensed under the Ritchey Verbatim License v4 license.
 Notes:
 - 
